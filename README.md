@@ -13,8 +13,8 @@ The final goal is to provide:
 
 ---
 
-## 🗂️ **Dataset**
-**Source:** Kaggle - https://www.kaggle.com/datasets/chicago/chicago-crime
+## **Dataset**
+**Source:** Kaggle - https://www.kaggle.com/datasets/chicago/chicago-crime  
 **Size used:** 200,000-row cleaned sample
 
 ### Main preprocessing steps:
