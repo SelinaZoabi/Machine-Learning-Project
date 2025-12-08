@@ -12,7 +12,7 @@ The final goal is to provide:
 
 ## **Dataset**
 **Source:** Kaggle - https://www.kaggle.com/datasets/chicago/chicago-crime  
-**Size used:** 200,000-row cleaned sample
+**Size used:** 200,000-row cleaned sample  
 **Note :**  I couldn't upload the dataset to GitHub because the files are too large for the platform limits. However, the code to download the dataset directly from Kaggle is included in the notebook, so anyone can easily re-download it and run the project locally.
 
 ### Main preprocessing steps:
