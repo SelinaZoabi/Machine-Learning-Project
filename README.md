@@ -3,7 +3,6 @@
 ## **Project Overview**
 
 This project predicts whether a household in Chicago will experience another domestic-violence incident within the next 90 days, based on past police reports.
-
 It is a binary classification problem (`repeat` vs `non-repeat`) trained on a cleaned and filtered version of the Chicago Crimes dataset.
 
 The final goal is to provide:
@@ -11,11 +10,10 @@ The final goal is to provide:
 * interpretable insights on risk factors
 * a simple Streamlit app to test predictions
 
----
-
 ## **Dataset**
 **Source:** Kaggle - https://www.kaggle.com/datasets/chicago/chicago-crime  
 **Size used:** 200,000-row cleaned sample
+**Note :**  I couldn't upload the dataset to GitHub because the files are too large for the platform limits. However, the code to download the dataset directly from Kaggle is included in the notebook, so anyone can easily re-download it and run the project locally.
 
 ### Main preprocessing steps:
 * kept only domestic violence incidents
